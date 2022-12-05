@@ -1,7 +1,7 @@
-# MySQL + Flask Boilerplate Project
+# NIL2MIL Final Project for CS3200
 
-This repo contains a boilerplate setup for spinning up 2 docker containers: 
-1. A MySQL 8 container for obvious reasons
+This repo contains an application setup for spinning up 2 docker containers: 
+1. A MySQL 8 container
 1. A Python Flask container to implement a REST API
 
 ## How to setup and start the containers
